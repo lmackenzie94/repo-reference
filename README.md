@@ -82,3 +82,8 @@
 ## Sanity Schemas
 
 **Repo:** https://github.com/lmackenzie94/sanity-schema-reference
+
+## Python
+
+**Repo:** https://github.com/lmackenzie94/python-bootcamp-udemy
+
