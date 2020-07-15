@@ -23,40 +23,40 @@
 ### Flashcards
 *My first attempt at building a full-stack (MERN) app*
 
-**Repo:** https://github.com/lmackenzie94/flashcards
+- **Repo:** https://github.com/lmackenzie94/flashcards
 
-**Uses:** MongoDB/Mongoose, Express, React, Node (MERN stack)
+- **Uses:** MongoDB/Mongoose, Express, React, Node (MERN stack)
 
-**Live:** https://code-flashcards-mern.herokuapp.com/
+- **Live:** https://code-flashcards-mern.herokuapp.com/
 
 <hr>
 
 ### @lmack npm package
 *My personal npm package containing custom components, hooks, etc.*
 
-**Repo:** https://github.com/lmackenzie94/lmack-npm
+- **Repo:** https://github.com/lmackenzie94/lmack-npm
 
 <hr>
 
 ### Kindle Notes
 *A simple app that organizes my kindle notes by pulling the PDFs stored in my Google Drive*
 
-**Repo:** https://github.com/lmackenzie94/kindle-notes
+- **Repo:** https://github.com/lmackenzie94/kindle-notes
 
-**Uses:** Eleventy, Tailwind, Node
+- **Uses:** Eleventy, Tailwind, Node
 
-**Live:** https://books.lukemackenzie.ca/
+- **Live:** https://books.lukemackenzie.ca/
 
 <hr>
 
 ### dotlocal
 *A website (not yet being used) for my friends' side project*
 
-**Repo:** https://github.com/lmackenzie94/dotlocal
+- **Repo:** https://github.com/lmackenzie94/dotlocal
 
-**Live:** https://dotlocal.netlify.app/
+- **Live:** https://dotlocal.netlify.app/
 
-**Uses:** Gatsby, Framer Motion, ThemeUI, Sanity (CMS), Firebase (db and auth)
+- **Uses:** Gatsby, Framer Motion, ThemeUI, Sanity (CMS), Firebase (db and auth)
 
 <hr>
 
@@ -64,23 +64,23 @@
 
 ### Svelte Scoreboard
 
-**Repo:** https://github.com/lmackenzie94/svelte-scoreboard
+- **Repo:** https://github.com/lmackenzie94/svelte-scoreboard
 
-**Tutorial:** https://www.youtube.com/watch?v=uK2RnIzrQ0M
+- **Tutorial:** https://www.youtube.com/watch?v=uK2RnIzrQ0M
 
-**Live:** https://svelte-scoreboard.netlify.app/
+- **Live:** https://svelte-scoreboard.netlify.app/
 
 ### Django Pollster App
 
-**Repo:** https://github.com/lmackenzie94/pollster-django
+- **Repo:** https://github.com/lmackenzie94/pollster-django
 
-**Tutorial:** https://www.youtube.com/watch?v=e1IyzVyrLSU
+- **Tutorial:** https://www.youtube.com/watch?v=e1IyzVyrLSU
 
 ### React Native 'Guess A Number'
 
-**Repo:** https://github.com/lmackenzie94/guess-number-app
+- **Repo:** https://github.com/lmackenzie94/guess-number-app
 
-**Tutorial:** https://www.youtube.com/watch?v=qSRrxpdMpVc
+- **Tutorial:** https://www.youtube.com/watch?v=qSRrxpdMpVc
 
 <hr>
 
@@ -88,36 +88,36 @@
 
 ### CSS Grid
 
-**Repo:** https://github.com/lmackenzie94/css-grid-reference
+- **Repo:** https://github.com/lmackenzie94/css-grid-reference
 
-**Live:** https://css-grid-stuff.netlify.app/
+- **Live:** https://css-grid-stuff.netlify.app/
 
 ### GSAP (GreenSock Animation Platform)
 
-**Repo:** https://github.com/lmackenzie94/GSAP
+- **Repo:** https://github.com/lmackenzie94/GSAP
 
 ### Sanity Schemas
 
-**Repo:** https://github.com/lmackenzie94/sanity-schema-reference
+- **Repo:** https://github.com/lmackenzie94/sanity-schema-reference
 
 ### Python
 
-**Repo:** https://github.com/lmackenzie94/python-bootcamp-udemy
+- **Repo:** https://github.com/lmackenzie94/python-bootcamp-udemy
 
 ### Testing JavaScript
 
-**Repo:** https://github.com/lmackenzie94/lmackenzie94-testing-js-kcd-course
+- **Repo:** https://github.com/lmackenzie94/lmackenzie94-testing-js-kcd-course
 
 ### Jest & Enzyme
 
-**Repo:** https://github.com/lmackenzie94/jest-testing
+- **Repo:** https://github.com/lmackenzie94/jest-testing
 
-**Repo:** https://github.com/lmackenzie94/react-testing-udemy
+- **Repo:** https://github.com/lmackenzie94/react-testing-udemy
 
 ### Gulp
 
-**Repo:** https://github.com/lmackenzie94/gulp-basics
+- **Repo:** https://github.com/lmackenzie94/gulp-basics
 
 ### React Native
 
-**Repo:** https://github.com/lmackenzie94/react-native
+- **Repo:** https://github.com/lmackenzie94/react-native
