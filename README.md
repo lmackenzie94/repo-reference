@@ -1,4 +1,4 @@
-# Side Projects
+# SIDE PROJECTS
 
 ### wikiluke
 *My go-to place for storing things I want to remember (quotes, words, advice, etc.)*
@@ -58,7 +58,7 @@
 
 <hr>
 
-# Tutorials
+# TUTORIALS
 
 ### Svelte Scoreboard
 
@@ -76,7 +76,7 @@
 
 <hr>
 
-# References
+# REFERENCES
 
 ### CSS Grid
 
