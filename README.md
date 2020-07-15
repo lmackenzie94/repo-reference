@@ -24,8 +24,6 @@
 
 **Uses:** MongoDB/Mongoose, Express, React, Node (MERN stack)
 
-**Live:** ____________
-
 <hr>
 
 ## @lmack npm package
@@ -62,8 +60,16 @@
 ## Svelte Scoreboard
 
 **Repo:** https://github.com/lmackenzie94/svelte-scoreboard
+
 **Tutorial:** https://www.youtube.com/watch?v=uK2RnIzrQ0M
+
 **Live:** https://svelte-scoreboard.netlify.app/
+
+## Django Pollster App
+
+**Repo:** https://github.com/lmackenzie94/pollster-django
+
+**Tutorial:** https://www.youtube.com/watch?v=e1IyzVyrLSU
 
 <hr>
 
@@ -86,4 +92,8 @@
 ## Python
 
 **Repo:** https://github.com/lmackenzie94/python-bootcamp-udemy
+
+## Testing JavaScript
+
+**Repo:** https://github.com/lmackenzie94/lmackenzie94-testing-js-kcd-course
 
