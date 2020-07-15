@@ -27,6 +27,8 @@
 
 **Uses:** MongoDB/Mongoose, Express, React, Node (MERN stack)
 
+**Live:** https://code-flashcards-mern.herokuapp.com/
+
 <hr>
 
 ### @lmack npm package
