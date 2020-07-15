@@ -1,6 +1,6 @@
 # Side Projects
 
-## wikiluke
+### wikiluke
 *My go-to place for storing things I want to remember (quotes, words, advice, etc.)*
 
 **Repos:**
@@ -14,10 +14,13 @@
 - [API](https://github.com/lmackenzie94/wikiluke-api)
   - **Uses:** Node, Express, MongoDB/Mongoose
   - **Hosted:** https://wikiluke.herokuapp.com/
+- [Random Word Site](https://github.com/lmackenzie94/wikiluke-random-word-py)
+  - **Uses:** Python, Flask, Docker
+  - **Hosted:** Nowhere yet (still a work-in-progress)
 
 <hr>
 
-## Flashcards
+### Flashcards
 *My first attempt at building a full-stack (MERN) app*
 
 **Repo:** https://github.com/lmackenzie94/flashcards
@@ -26,14 +29,14 @@
 
 <hr>
 
-## @lmack npm package
+### @lmack npm package
 *My personal npm package containing custom components, hooks, etc.*
 
 **Repo:** https://github.com/lmackenzie94/lmack-npm
 
 <hr>
 
-## Kindle Notes
+### Kindle Notes
 *A simple app that organizes my kindle notes by pulling the PDFs stored in my Google Drive*
 
 **Repo:** https://github.com/lmackenzie94/kindle-notes
@@ -44,7 +47,7 @@
 
 <hr>
 
-## dotlocal
+### dotlocal
 *A website (not yet being used) for my friends' side project*
 
 **Repo:** https://github.com/lmackenzie94/dotlocal
@@ -57,7 +60,7 @@
 
 # Tutorials
 
-## Svelte Scoreboard
+### Svelte Scoreboard
 
 **Repo:** https://github.com/lmackenzie94/svelte-scoreboard
 
@@ -65,7 +68,7 @@
 
 **Live:** https://svelte-scoreboard.netlify.app/
 
-## Django Pollster App
+### Django Pollster App
 
 **Repo:** https://github.com/lmackenzie94/pollster-django
 
@@ -75,25 +78,33 @@
 
 # References
 
-## CSS Grid
+### CSS Grid
 
 **Repo:** https://github.com/lmackenzie94/css-grid-reference
 
 **Live:** https://css-grid-stuff.netlify.app/
 
-## GSAP (GreenSock Animation Platform)
+### GSAP (GreenSock Animation Platform)
 
 **Repo:** https://github.com/lmackenzie94/GSAP
 
-## Sanity Schemas
+### Sanity Schemas
 
 **Repo:** https://github.com/lmackenzie94/sanity-schema-reference
 
-## Python
+### Python
 
 **Repo:** https://github.com/lmackenzie94/python-bootcamp-udemy
 
-## Testing JavaScript
+### Testing JavaScript
 
 **Repo:** https://github.com/lmackenzie94/lmackenzie94-testing-js-kcd-course
 
+### Jest & Enzyme
+
+**Repo:** https://github.com/lmackenzie94/jest-testing
+**Repo:** https://github.com/lmackenzie94/react-testing-udemy
+
+### Gulp
+
+**Repo:** https://github.com/lmackenzie94/gulp-basics
