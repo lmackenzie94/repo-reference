@@ -131,3 +131,7 @@
 ### React Native
 
 - **Repo:** https://github.com/lmackenzie94/react-native
+
+### Various Notes
+
+- **Repo:** https://github.com/lmackenzie94/notes
