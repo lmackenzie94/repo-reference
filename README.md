@@ -60,6 +60,16 @@
 
 <hr>
 
+### What's Cookin'
+*An app to keep track of recipes*
+
+- **Repo:** https://github.com/lmackenzie94/whats_cookin
+
+- **Live:** Nowhere yet (still a work-in-progress)
+
+- **Uses:** Python/Django, SQLite.
+
+
 # TUTORIALS
 
 ### Svelte Scoreboard
