@@ -5,7 +5,7 @@
 
 **Repos:**
 - [Website](https://github.com/lmackenzie94/wikiluke-web)
-  - **Uses:** React, Gatsby, Google Sheets, Airtable
+  - **Uses:** React, Gatsby, Google Sheets, Airtable, Styled Components
   - **Live:** https://wikiluke.netlify.app/
 - [App](https://github.com/lmackenzie94/wikiluke-app)
   - **Uses:** React Native, Expo
