@@ -67,8 +67,14 @@
 
 - **Live:** Nowhere yet (still a work-in-progress)
 
-- **Uses:** Python/Django, SQLite.
+- **Uses:** Python/Django, SQLite
 
+### Highlighter 
+*A Chrome extension that adds functionality to the context menu (i.e. the right-click dropdown) to save the current selection as a "highlight". That highlight gets saved to a database and pulled in on my [wikiluke](https://wiki.lukemackenzie.ca/highlights) site.*
+
+- **Repo:** https://github.com/lmackenzie94/highlighter-chrome-ext
+
+- **Uses:** Vanilla JS.
 
 # TUTORIALS
 
