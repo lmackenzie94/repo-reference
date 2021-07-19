@@ -98,6 +98,10 @@
 
 - **Tutorial:** https://www.youtube.com/watch?v=qSRrxpdMpVc
 
+### Node.js / Express (Udemy)
+
+- **Repo:** https://github.com/lmackenzie94/node-udemy
+
 <hr>
 
 # REFERENCES
@@ -141,3 +145,9 @@
 ### Various Notes
 
 - **Repo:** https://github.com/lmackenzie94/notes
+
+### React Hooks
+
+- **Repo:** https://github.com/lmackenzie94/react-hooks-reference
+
+- **Live:** https://react-hooks-reference.netlify.app/
